@@ -7,4 +7,5 @@ Because of it being my first python script, there are going to be quite a lot of
 I am not able to regularly update it and look if everything works as I just don't have the time due to school, so (in case someone is interested and even reads this) please report any problem(s) found.
 
 Thank you :), 
+
 Nico
